@@ -70,7 +70,7 @@ function Sidebar() {
               <h1 className="text-lg font-black text-white tracking-tight">
                 AGRO<span className="text-[#00f0ff]">NEXUS</span>
               </h1>
-              <p className="text-[9px] font-mono text-[#475569] tracking-[0.2em] uppercase -mt-0.5">STARK EDITION v2.0</p>
+              <p className="text-[9px] font-mono text-[#475569] tracking-[0.2em] uppercase -mt-0.5">v2.0</p>
             </div>
           )}
         </div>

@@ -218,6 +218,6 @@ MIT License — veja [LICENSE](LICENSE) para detalhes.
 
 <div align="center">
 
-**AgroNexus** — Stark Edition v2.0
+**AgroNexus** — v2.0
 
 </div>

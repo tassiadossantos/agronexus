@@ -1,6 +1,6 @@
 # AgroNexus — Documentação Técnica Detalhada
 
-> **Versão:** 2.0 — Stark Edition  
+> **Versão:** 2.0
 > **Última atualização:** Julho 2026
 
 ---
@@ -671,9 +671,8 @@ import type { Insumo } from '@/entities/insumo/types'; // 4. Tipos
 
 ## 13. Contato
 
-**Equipe AgroNexus**  
-Stark Industries — Divisão Agrícola
+**Equipe AgroNexus**
 
 ---
 
-*Documento gerado automaticamente — AgroNexus v2.0 Stark Edition*
+*Documento gerado automaticamente — AgroNexus v2.0*
